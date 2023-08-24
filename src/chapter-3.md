@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI for Business Operations Improvement
-======================================================================
 
 In this chapter, we will explore the essential steps in getting started with AI for business operations improvement. We will cover identifying business processes that can be improved with AI, selecting AI tools and implementing them into workflows, and creating a customized AI roadmap for business enhancement.
 

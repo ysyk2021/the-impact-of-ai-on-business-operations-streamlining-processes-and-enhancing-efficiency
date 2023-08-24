@@ -1,5 +1,3 @@
-Chapter 6: Evaluating the Impact of AI on Business Operations
-=============================================================
 
 In this chapter, we will discuss how to evaluate the impact of AI on business operations. We will explore the tradeoffs involved in using AI to enhance business efficiency and the importance of balancing automation with human expertise.
 

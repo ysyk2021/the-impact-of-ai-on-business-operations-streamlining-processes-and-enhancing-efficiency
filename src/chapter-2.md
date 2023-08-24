@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Business Improvement
-===============================================================
 
 In this chapter, we will explore three technologies that can improve business operations: natural language processing (NLP), machine learning (ML), and computer vision (CV). We will discuss the applications and benefits of these technologies in enhancing efficiency and streamlining processes.
 

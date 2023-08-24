@@ -1,5 +1,3 @@
-Computer Vision (CV) for Quality Control and Optimization
-==========================================================================================================================
 
 In this chapter, we will explore computer vision (CV) as a technology that can improve business operations by enhancing quality control and optimization. CV refers to the ability of machines to interpret and understand digital images and videos.
 
