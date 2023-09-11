@@ -1,5 +1,4 @@
-Chapter: Reducing Costs and Waste with AI-enabled Resource Planning and Optimization
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the applications of AI-enabled resource planning and optimization in reducing costs and waste within businesses. AI technologies play a crucial role in automating and optimizing resource allocation, leading to improved efficiency, reduced expenses, and minimized waste.
 

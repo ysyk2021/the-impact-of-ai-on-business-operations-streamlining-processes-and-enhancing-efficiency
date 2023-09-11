@@ -1,5 +1,4 @@
-Chapter: Identifying Business Processes that can be Improved with AI
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of identifying business processes that can be improved with AI. Implementing AI technologies offers businesses the opportunity to streamline operations, enhance efficiency, and drive innovation. By identifying the right processes to leverage AI, businesses can maximize the benefits and achieve significant improvements in their overall performance.
 

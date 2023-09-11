@@ -1,5 +1,4 @@
-Chapter: Computer Vision (CV) for Quality Control and Optimization
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the applications of Computer Vision (CV) in streamlining quality control processes and optimizing operations within businesses. CV, a field of AI, focuses on enabling machines to analyze and understand visual data, allowing businesses to automate inspections, identify defects, and enhance overall product quality and efficiency.
 
